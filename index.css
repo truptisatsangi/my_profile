@@ -1,0 +1,22 @@
+*{
+	font-family:algerian;
+}
+html{
+	background-image:url("http://www.webdesignhot.com/wp-content/uploads/2018/02/Blue-Information-Technology-Background-Vector-Illustration.jpg");
+	background-size:cover;
+	width:1350px;
+	height:100px;
+}
+ul li a{
+	color:white;
+}
+div li{
+	color:white;
+}
+h1{
+	color:purple;
+}
+body{
+	font-size:28;
+	color:black;
+}
